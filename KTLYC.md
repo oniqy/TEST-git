@@ -1,4 +1,4 @@
-**Researched by Nguyen Huu Tuan Too**
+**Researched by Le Thai Vy**
 
 **1/ Describe the issues of Requirement**
 
