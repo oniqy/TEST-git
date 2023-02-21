@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501,
+    "scripts": {
+        "start": "npx pm2 start server.js --watch"
+    },
+    "dependencies": {
+        "pug": "^2.0.3"
+    },
+}
+
